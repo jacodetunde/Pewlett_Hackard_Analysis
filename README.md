@@ -1,6 +1,6 @@
 # Pewlett_Hackard_Analysis
 ## Overview
-This analysis used PostgreSQL to create, filter employees database to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then,write a report that summarizes the analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
+This analysis used Quick DBD to create ERD and PostgreSQL to create, filter employees database to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then,write a report that summarizes the analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 ## Results
 1. 90398 unique positions would be open.
     - ![unique_title2.png](unique_title2.png)
