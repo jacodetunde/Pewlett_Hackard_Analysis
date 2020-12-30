@@ -1,6 +1,19 @@
-# Pewlett_Hackard_Analysis
-## Overview
+# Pewlett Hackard Employee Analysis
+## Project Objective
+To determine the number of employees due for retirement to set up a mentorship program for those retirees.
+## Method Use
+- Queries
+## Technologies
+- Python
+- Pandas
+- PostgreSQL
+- Quik DBD
+## Project Description
 This analysis used Quick DBD to create ERD and PostgreSQL to create, filter employees database to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then,write a report that summarizes the analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
+## Needs of this project
+- Data processing
+- Reporting
+- Decision Making
 ## Results
 1. 90398 unique positions would be open.
     - ![unique_title2.png](unique_title2.png)
