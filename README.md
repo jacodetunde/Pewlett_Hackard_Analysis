@@ -4,7 +4,6 @@ To determine the number of employees due for retirement to set up a mentorship p
 ## Method Use
 - Queries
 ## Technologies
-- Python
 - Pandas
 - PostgreSQL
 - Quik DBD
